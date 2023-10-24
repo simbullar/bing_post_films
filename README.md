@@ -7,4 +7,4 @@ And you need to run the program to get your cookie into token.txt or you can do 
 
 **You also need to modify prompt for not-ukranian output**
   
-**It also copies output to the clipboard  *automatically*  **
+It also copies output to the clipboard  *automatically*
